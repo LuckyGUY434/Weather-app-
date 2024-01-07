@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){document.getElementById("location-form").addEventListener("submit",(function(e){e.preventDefault();const t=document.getElementById("location-data").value;console.log(t)}))}));
